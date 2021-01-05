@@ -2159,3 +2159,5 @@ return /******/ (function(modules) { // webpackBootstrap
 });
 ;
 //# sourceMappingURL=angular-file-upload.js.map
+
+module.exports = angular.module('angularFileUpload').name;
